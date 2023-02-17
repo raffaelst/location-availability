@@ -6,6 +6,6 @@ This project is a .NET Core Web API that returns a JSON response of locations th
 
 .NET Core 6
 
-Visual Studio 2019 or Visual Studio Code
+Visual Studio 2019/2022 or Visual Studio Code
 
 Git
